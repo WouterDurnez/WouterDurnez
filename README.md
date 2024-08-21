@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**WouterDurnez/WouterDurnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am:
 
-Here are some ideas to get you started:
+👷‍♂️ An AI engineer at Showpad
+🧪 An experimental psychologist, somehow
+🤓 An anime buff, amongst other nerdy things
+🧗 A sports enthusiast (but what do you care, this is GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As far as coding is concerned, I love:
+
+🎨 Clean and well-documented code
+🤺 Overengineering projects (even those that attempt to put a halt to overengineering *cough* LangChain *cough*)
+🐍 Python (but looking to branch out)
+
+And also:
+
+🚀 Emoji bullet lists that hide my real age
+
