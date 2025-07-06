@@ -7,8 +7,8 @@
 
 ### ❤️
 
-- 🎨 Clean and well-documented code
-- 🤺 Overengineering projects (even those that attempt to put a halt to overengineering *cough* LangChain *cough*)
-- 🐍 Python (but looking to branch out)
+- 🎨 Clean and well-documented code (did it before Cursor was a thing yo)
+- 🤺 Lovingly overengineering projects
+- 🐍 Python (but branching out)
 - 🚀 Emoji bullet lists that hide my real age
 
