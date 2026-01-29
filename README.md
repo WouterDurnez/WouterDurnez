@@ -1,4 +1,4 @@
-### IAM
+### WHOIS
 
 - 👷‍♂️ an AI/backend engineer at Ringtime
 - 🧪 an experimental psychologist, somehow
