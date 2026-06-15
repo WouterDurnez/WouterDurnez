@@ -1,5 +1,6 @@
 ### WHOIS
 
+- 🦈 Self-employed as [Haai](https://www.rugvin.be)
 - 👷‍♂️ an AI/backend engineer at Ringtime
 - 🧪 an experimental psychologist, somehow
 - 🤓 a manga buff, amongst other nerdy things
