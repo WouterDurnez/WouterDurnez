@@ -17,13 +17,13 @@
 
 - 🪸 [Reef](https://reefwith.me): long-term AI memory, as an app and MCP server — private by default
 - 🌈 [termicolor](https://termicolor.io): drop an image, get a WCAG-aware terminal palette
-- 🌊 …plus client builds and other side projects on [rugvin.be/projects](https://www.rugvin.be/projects/)
+- 🌊 … plus client builds and other side projects on [rugvin.be/projects](https://www.rugvin.be/projects/)
 
 ### 🧰 Current stack
 
-- 🐋 [Orca](https://orca.dev) wrapping Claude Code and Codex, with the occasional OpenCode model
+- 🐋 [Orca](https://orca.dev) wrapping Claude Code and Codex, with the occasional OpenCode model, + 📱support!
 - 🧠 [Reef](https://reefwith.me) as the agents' long-term memory
-- 🎙️ Wispr Flow, because typing is for people who don't talk to their computers
+- 🎙️ Wispr Flow, because laziness and optimization are the same thing
 - 💻 iTerm2 (and Ghostty) · Raycast · Linear
 - 🔧 Python (FastAPI, Pydantic, uv) · TypeScript (Astro, bun)
 - ☁️ AWS, Cloudflare & Railway for (fast) deployments
