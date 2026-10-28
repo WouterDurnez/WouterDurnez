@@ -27,7 +27,9 @@
 ### ❤️
 
 - 🎨 Clean and well-documented code (did it before vibe-coding was a thing yo)
+- ⚡ Breakneck prototyping
 - 🤺 Lovingly overengineering projects
+- 🌀 Paradoxes
 - 🚀 Emoji bullet lists that hide my real age
 
 **Need an AI or software build? → [rugvin.be](https://www.rugvin.be)** 🦈
