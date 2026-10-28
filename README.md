@@ -21,14 +21,13 @@
 - 🧠 [Reef](https://reefwith.me) as the agents' long-term memory
 - 🎙️ Wispr Flow, because laziness and optimization are the same thing
 - 💻 iTerm2 (and Ghostty) · Raycast · Linear
-- 🔧 Python (FastAPI, Pydantic, uv) · TypeScript (Astro, bun)
+- 🔧 Python (FastAPI, Pydantic, uv) · TypeScript (Astro, bun) · 👀 Rust, someday
 - ☁️ AWS, Cloudflare & Railway for (fast) deployments
 
 ### ❤️
 
 - 🎨 Clean and well-documented code (did it before vibe-coding was a thing yo)
 - 🤺 Lovingly overengineering projects
-- 🐍 Python first, TypeScript a close second (and still 👀 Rust)
 - 🚀 Emoji bullet lists that hide my real age
 
 **Need an AI or software build? → [rugvin.be](https://www.rugvin.be)** 🦈
