@@ -1,9 +1,5 @@
-<a href="https://www.rugvin.be">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="rugvin: a shark fin circling through the waves" src="assets/header-light.svg" width="100%">
-  </picture>
-</a>
+<a href="https://www.rugvin.be/#gh-light-mode-only"><img alt="rugvin: a shark fin circling through the waves" src="assets/header-light.svg" width="100%"></a>
+<a href="https://www.rugvin.be/#gh-dark-mode-only"><img alt="rugvin: a shark fin circling through the waves" src="assets/header-dark.svg" width="100%"></a>
 
 ### WHOIS
 
